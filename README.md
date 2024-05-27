@@ -1,1 +1,1 @@
-# Setiment-Anlaysis-of-App-Reviews
+# Sentiment-Anlaysis-of-App-Reviews
